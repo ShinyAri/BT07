@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1678369858 source:d:\bt07\3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<map>
+
